@@ -20,7 +20,7 @@ By the end of this presentation, learners should:
 • Recognize the basic structure of a Shiny app.
 
 • Implement practical methods to integrate research data into basic
-dashboards using R Shiny.
+dashboards using R Shiny: https://peacemaddox.shinyapps.io/r_club/
 
 Shiny enhances research team collaboration by facilitating better
 communication of complex data through effective visualization tools.
